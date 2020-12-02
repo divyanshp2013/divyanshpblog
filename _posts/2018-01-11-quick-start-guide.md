@@ -1,11 +1,12 @@
 ---
 layout: post
 title: 'Walter White: The Entrepreneurial Way'
-author: sal
+author: dp
 categories:
   - Jekyll
   - tutorial
-image: assets/images/12.jpg
+image: >-
+  https://www.denofgeek.com/wp-content/uploads/2013/07/288895.jpg?resize=636%2C432
 featured: true
 hidden: true
 published: true
