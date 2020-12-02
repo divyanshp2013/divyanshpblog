@@ -12,6 +12,8 @@ hidden: true
 published: true
 ---
 ![Image Source: www.denofgeek.com](https://www.denofgeek.com/wp-content/uploads/2013/07/288895.jpg?resize=636%2C432)
+
+
 The journey of Walter White resembles that of an entrepreneur. He finds particular problems and inconveniences along his route for which there is no remedy given by traditional means. He starts innovating and improvising to conquer this barrier, which leads to the development of a new product. This high-quality methamphetamine product will fill the demand gap. He goes on to raise seed money as his next move and makes some local investments. He makes use of regional equipment to start his company because of the lack of access to any high-end fancy equipment.
 
 
