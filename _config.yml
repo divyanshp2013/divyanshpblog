@@ -1,18 +1,25 @@
 # Site
 name: "Divyansh's Blog"
 title: "Divyansh's Blog"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "A space where I write what I understand and love"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-google_analytics: 'UA-46278016-1'
-disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+google_analytics: ''
 include: ["_pages"]
 permalink: /:title/
 
 # Authors
 authors:
+  dp:
+    name: dp
+    display_name: Divyansh Prakash
+    gravatar: 7115f92173226b697c9462a039a3a122
+    email: divyanshp2013@gmail.com
+    web: https://www.divyanshp.in
+    twitter: https://www.linkedin.com/in/divyansh-prakash-a33775185/
+    description: "I'm currently pursuing my Masters in Business Administration from the Indian Institute of Management, Indore. Having studied a varied range of subjects during my undergraduate education at Indian Institute of Management Indore in the Bachelors of Arts (Foundation in Management) Programme, I have developed a keen interest in management and its domains."
+  
   sal:
     name: Sal
     display_name: Sal
