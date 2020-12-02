@@ -1,27 +1,20 @@
 ---
 layout: post
-title:  "Let's test spoilers"
+title: 'Walter White: The Entrepreneurial Way'
 author: sal
-categories: [ Jekyll, tutorial ]
+categories:
+  - Jekyll
+  - tutorial
 image: assets/images/12.jpg
 featured: true
 hidden: true
+published: true
 ---
+![Image Source: www.denofgeek.com](https://www.denofgeek.com/wp-content/uploads/2013/07/288895.jpg?resize=636%2C432)
+The journey of Walter White resembles that of an entrepreneur. He finds particular problems and inconveniences along his route for which there is no remedy given by traditional means. He starts innovating and improvising to conquer this barrier, which leads to the development of a new product. This high-quality methamphetamine product will fill the demand gap. He goes on to raise seed money as his next move and makes some local investments. He makes use of regional equipment to start his company because of the lack of access to any high-end fancy equipment.
 
-Director Roland Suso Richter's enigmatic psychological thriller (direct to video/DVD) was based upon screenwriter Michael Cooney's own play "Point of Death" - a title that gave away the film's entire plot twist premise.
 
-As in many similar films, such as Jacob's Ladder (1990), Soul Survivors (2001), and The Butterfly Effect (2004), events and people were thoroughly distorted and confused because the protagonist was at the point of death. The tagline was misleading:
+With a small team (Jesse Pinkman), the job begins, and he is also actively involved in the manufacturing process. White works to build value for his brand and shows how his brand is different and better than what is available on the market. The pre-existing players, challenged by a new participant, attempt to exploit him, but he understands his product's stunning individuality and thus refuses to back off. He employs a lawyer when trouble comes knocking, which outlines the legal element that occurs sooner or later in the career of any entrepreneur.
 
-"When You Don't Have a Memory, How Can You Remember Who to Trust?"
 
-The mind-warping film opened with a hospital patient Simon Cable (Ryan Phillippe) awakening in a <span class="spoiler"> hospital with little knowledge (amnesia perhaps?) of what had happened, and why he was there, etc. He was told by attending Dr. Jeremy Newman (Stephen Rea) that it was July 29, 2002 (Simon thought it was the year 2000 - he was confused - he heard a doctor say 20:00 hours!) and that he had died for two minutes from cardiac arrest following the near-fatal accident -- but he had been revived ("You're as good as new").</span> Dr. Newman: "Simon, this is the 29th of July. The year is 2002. And your wife, whose name is Anna, is waiting outside." 
-
-(The doctor left off four crucial additional words, revealed in the film's ending.) (Spoiler: Simon had died and was not resuscitated!).
-
-A major clue to everything that truly happened was the scene that played next under the credits - hospital staff failed to bring a patient back to life with a defibrillator after a car accident. Chest compressions failed and there was no pulse. A second major clue was provided by hospital orderly Travis (Stephen Graham): <span class="spoiler">Everybody dies. No mystery there. But why and how everyone dies. Now, there's a mystery worth solving. Probably the biggest mystery there is.</span>
-
-#### So how do we do spoilers?
-
-```html
-<span class="spoiler">My hidden paragraph here.</span>
-```
+He makes mistakes, as any person does, but by growing his company, he also learns from them and tries to turn his situation around. His increasing popularity, however, attracts the industry's more influential players who attempt to arm him strongly. His business is taking a big hit as a result of their assaults, leaving him unable to do something. He tries to save the original squad, however, and effectively avoids many crises. He rewards the team for their loyalty, a common thing seen in new business ventures. It makes him the entrepreneur of textbooks.
