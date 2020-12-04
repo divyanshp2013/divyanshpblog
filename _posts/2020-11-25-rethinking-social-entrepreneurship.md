@@ -3,7 +3,7 @@ layout: post
 title: Rethinking Social Entrepreneurship
 author: dp
 categories:
-  - Social
+  - Social Entrepreneurship
   - Entrepreneurship
 image: 'https://www.paggu.com/wp-content/uploads/2018/10/social-entrepreneurship.jpg'
 published: true
